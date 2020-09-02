@@ -29,6 +29,7 @@
                 <div class="triangle-left"></div>
                 
                 <div class="oval2"></div>
+                
                 <div class="oval3"></div>
                 <div class="neck"></div>
                 <div class="wing"></div>
